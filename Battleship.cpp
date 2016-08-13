@@ -1,8 +1,5 @@
 /*
 Programmer: Sergei Danielian
-Title: Lab 7
-Date: November 5th, 2015
-Filename: lab7.cpp
 Purpose: To simulate a ship warfare game on a 10x10 grid using 2 dimensional arrays.
 */
 #include <iostream>
